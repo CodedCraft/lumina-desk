@@ -44,3 +44,29 @@ For those leaning towards ready-made solutions, LuminaDesk drew inspiration from
 - A cost-effective choice for those prioritizing budget over advanced features.
 
 These alternatives showcase the diversity in the market. LuminaDesk, inspired by these choices, presents an open-source, customizable solution for enthusiasts who relish a hands-on approach to perfecting their workspace lighting.
+
+## CAD Model
+### Design Philosophy
+
+The CAD model for LuminaDesk embodies a design philosophy centered around accessibility, ease of assembly, and minimal additional hardware. Here are some key features of the CAD model:
+
+    No Supports: Every component of the CAD model is designed to be 3D printable without the need for supports, streamlining the printing process and ensuring easy reproduction by enthusiasts.
+
+    Minimal Hardware: With the exception of a bearing, which is essential for smooth rotary motion, the design minimizes the need for additional hardware. Even the spring mechanism is replaced with a 3D printed flexure, reducing complexity and cost.
+
+    Snap Fits and Compliant Spring: Assembly is made effortless through intuitive snap fits, eliminating the need for glue, screws, or other fasteners. The compliant spring, also 3D printed, provides the necessary tension and flexibility for smooth operation without relying on traditional hardware components.
+
+### Parametric Modeling
+
+The CAD files provided are accessible via Onshape and are designed with parametric modeling techniques. This means that components can be easily customized and adapted to suit individual preferences or specific requirements without the need to redesign from scratch.
+Links to CAD Files
+
+Explore the CAD files for LuminaDesk components below:
+
+### Links to CAD files
+#### Lamp 
+- [View in Onshape as parametric model](https://cad.onshape.com/documents/facbb23b337033b2b3b3d6ee/w/e6ad57cbdafc9e421006821e/e/b91d026dc89f9bd327e5d08e?renderMode=0&uiState=65cf92a12810553b67fab8ff)
+#### Rotary Dial
+- [View in Onshape as parametric model](https://cad.onshape.com/documents/149174eb9bc19ea455541905/w/f8a6decdda697983f2bb9c4a/e/b882fa6dbc5505b2fd5661fd)
+#### Electronics Housing & Lamp Holder
+- [View in Onshape as parametric model](https://cad.onshape.com/documents/facbb23b337033b2b3b3d6ee/w/e6ad57cbdafc9e421006821e/e/b91d026dc89f9bd327e5d08e?renderMode=0&uiState=65cf92a12810553b67fab8ff)
